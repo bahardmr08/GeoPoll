@@ -65,13 +65,14 @@ npm start
 ![Map Interface](https://github.com/user-attachments/assets/92fffbe0-149a-4795-8c5d-ba3f9332298f)
 ![Map Interface](https://github.com/user-attachments/assets/14e2b941-ded2-443c-8769-cacf606e4d5f)
 
-![Map Interface]()
+
 
 
 
 
 
 ### Veritabanı Görünümü
-![VeriTabanı]()
+![Database](https://github.com/user-attachments/assets/0fd71da7-8656-42e4-a23c-ea57504d4ede)
+
 
 
