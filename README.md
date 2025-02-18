@@ -72,7 +72,8 @@ npm start
 
 
 ### Veritabanı Görünümü
-![Database](https://github.com/user-attachments/assets/0fd71da7-8656-42e4-a23c-ea57504d4ede)
+![Database](https://github.com/user-attachments/assets/e63cb373-ab68-4f89-b851-d5ee1ad72554)
+
 
 
 
